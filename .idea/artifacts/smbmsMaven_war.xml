@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="smbmsMaven:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="smbms-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="smbmsMaven:war exploded" />
+    </root>
+  </artifact>
+</component>
